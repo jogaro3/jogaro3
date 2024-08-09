@@ -33,6 +33,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/jogaro3/jogaro3/output/snake.svg" alt="Snake animation" />
-
 ###
